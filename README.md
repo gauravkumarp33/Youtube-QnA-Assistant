@@ -17,7 +17,6 @@ A lightweight Retrieval-Augmented Generation (RAG) application built with **Lang
 - **LLM**: Google Gemini 2.5 Flash 
 - **Embeddings**: Google Multimodal Embeddings 
 - **Vector Database**: FAISS (Facebook AI Similarity Search)
-- **Environment & Package Manager**: `uv` (by Astral)
 
 ---
 
